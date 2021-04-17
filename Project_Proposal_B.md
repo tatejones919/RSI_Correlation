@@ -36,10 +36,13 @@
 
 ### Rough Breakdown of Tasks
 
+- To be discussed.
+
 ---
 
 #### References
 
 - https://www.investopedia.com/terms/r/rsi.asp
 - https://kaabar-sofien.medium.com/back-testing-the-rsi-divergence-strategy-on-fx-in-python-c3680e7e2960
-- https://www.amazon.com/dp/B089CWQWF8 (\_The Book of Back-tests: Trading Objectively: Back-testing and demystifying trading strategies)
+- https://www.amazon.com/dp/B089CWQWF8 (_The Book of Back-tests: Trading Objectively: Back-testing and demystifying trading strategies_)
+- https://www.tradingheroes.com/rsi-divergence-explained/#:~:text=RSI%20Divergence%20occurs%20when%20the,where%20the%20RSI%20is%20lower.
