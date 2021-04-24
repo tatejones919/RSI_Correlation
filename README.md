@@ -75,7 +75,7 @@ So we:
 - segregated each up and down period to a positive or negative difference, with all things equal to zero.
 - calculated an exponential weighted moving average with a period of 14 days of the up and down periods.
 - calculated the relative strength (RS) by the ratio of up and down averages.
-- used the RSI formula to marmalize the values between 0-100.
+- used the RSI formula to normalize the values between 0-100.
 
 ## Bonds vs. US Dollar Index Concept
 
