@@ -81,7 +81,7 @@ So we:
 
 From anecdotal evidence, a pattern was noted in the movement of the Treasury Markets and the US Dollar Index. As money was flowing into the bonds market, the US Dollar Index was experiencing bearish trends. The same was seen vice versa. This led to an understanding that investors move money when they view the US Dollar as weak into the bonds market.
 
-Our hypothesis held _there is a direct inverse relationship between the Bonds market and the US Dollar Index_. Essentially, when the 30 Year T-bond and the 10 Year T-Note would rally, we should see the US Dollar Index move bearish. Similarly, when the US Dollar rallie, we should see the 30 Year T-Bond and 10 Year T-Note move bearish. The inverse of these relationships would be seen, as well.
+Our hypothesis held _there is a direct inverse relationship between the Bonds market and the US Dollar Index_. Essentially, when the 30 Year T-bond and the 10 Year T-Note would rally, we should see the US Dollar Index move bearish. Similarly, when the US Dollar rallies, we should see the 30 Year T-Bond and 10 Year T-Note move bearish. The opposite scenarioss would be seen, as well.
 
 ## Gold and Bitcoin as Safe Haven Assets
 
@@ -97,7 +97,7 @@ After comparing the RSI of the 10 year, 30 year and usdx we wanted to see if the
 
 ## Analysis
 
-As aforementioned, the data used for the Treasury Markets were based on the June Futures Contracts so the time period was only for one year when analyzed against the US Dollar Index. In the analysis, we were able to note a direct inverse relationship between the 30 Year T-bond + 10 Year T-Note, and the US Dollar Index.
+As aforementioned, the data used for the Treasury Markets were based on the June Futures Contracts so the time period was only for one year when analyzed against the US Dollar Index. In the analysis, we were able to note a direct inverse relationship between the 30 Year T-bond + 10 Year T-Note, and the US Dollar Index, proving our hypothesis right.
 
 ![Treasury Markets vs US Dollar Index](images/daily_rsi_1.png)
 
@@ -109,7 +109,7 @@ During the analysis of Gold and Bitcoin, we discovered our hypothesis regarding 
 
 ![Gold vs Bitcoin RSI](images/RSI_bit_gold.png)
 
-From our findings we discovered that the RSI between Bitcoin and the USDX had a strong inverse correltion with a correlation coefficient of -0.539. Much to our surprise gold had a slightly positive correlation to with the USDX with a correlation coefficient of 0.289.
+From our findings we discovered that the RSI between Bitcoin and the USDX had a strong inverse correlation with a correlation coefficient of -0.539. Much to our surprise gold had a slightly positive correlation to with the USDX with a correlation coefficient of 0.289.
 
 ![Correlation Table 2](images/correlation_table_2.png)
 
