@@ -81,7 +81,7 @@ So we:
 
 From anecdotal evidence, a pattern was noted in the movement of the Treasury Markets and the US Dollar Index. As money was flowing into the bonds market, the US Dollar Index was experiencing bearish trends. The same was seen vice versa. This led to an understanding that investors move money when they view the US Dollar as weak into the bonds market.
 
-Our hypothesis held _there is a direct inverse relationship between the Bonds market and the US Dollar Index_. Essentially, when the 30 Year T-bond and the 10 Year T-Note would rally, we should see the US Dollar Index move bearish. Similarly, when the US Dollar rallies, we should see the 30 Year T-Bond and 10 Year T-Note move bearish. The opposite scenarioss would be seen, as well.
+Our hypothesis held _there is a direct inverse relationship between the Bonds market and the US Dollar Index_. Essentially, when the 30 Year T-bond and the 10 Year T-Note would rally, we should see the US Dollar Index move bearish. Similarly, when the US Dollar rallies, we should see the 30 Year T-Bond and 10 Year T-Note move bearish. The opposite scenario would be seen, as well.
 
 ## Gold and Bitcoin as Safe Haven Assets
 
