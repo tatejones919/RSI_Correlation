@@ -1,4 +1,3 @@
-# University of Miami FinTech Bootcamp Project 1
 
 ## **Correlational Research Study Between the Treasury Markets, The US Dollar Index, Gold, and Bitcoin**
 
